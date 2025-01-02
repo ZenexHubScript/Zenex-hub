@@ -1,27 +1,3 @@
--- This script implements a Roblox user ID system that restricts access to a specific user.
-
--- Function to get the current player's user ID.
-function getPlayerUserID()
-  return game.Players.LocalPlayer.UserId
-end
-
--- Function to check if the current player is the authorized user.
-function checkAuthorizedUser()
-  local authorizedUserID = 7484705339 -- Replace with the actual authorized user ID
-  local authorizedUserID = 7469210971 -- Replace with the actual authorized user ID
-  local authorizedUserID = 7681543933 -- Replace with the actual authorized user ID
-
-  if getPlayerUserID() ~= authorizedUserID then
-    -- User is not authorized, restrict access
-    game.Players.LocalPlayer:Kick("You are not authorized to test this script.")
-  end
-end
-
--- Check authorization on player join
-game.Players.PlayerAdded:Connect(checkAuthorizedUser)
-
--- Check authorization on game load (optional)
-checkAuthorizedUser()
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Zenex hub",
