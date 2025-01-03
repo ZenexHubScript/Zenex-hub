@@ -19,3 +19,5 @@ Ballerfarm = false -- Gives you barely 2-10 extra slaps it bad.
 BlinkFarm = false -- This gives a lot of slaps with replica Disabled since people will most likely not have Blink.
 
 Replicafarm = true -- spawns a replica for the farm.
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmFeatures.lua'))()
