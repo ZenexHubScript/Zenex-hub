@@ -3,7 +3,7 @@ This is a script hub with some custom script. Made by Finn and sap
 
 Please use these at your own risk or if you have permission, I (Sap and finn) do not condone the use of any exploits for Ruining others people fun or ruining the game!
 
-<img width="250px" src="">
+<img width="250px" src="https://cdn.discordapp.com/icons/1317859948042125342/90f4ec6daa661f34c6c294756cac05aa.webp">
 
 Image Credit:Finn
 
