@@ -15,6 +15,8 @@ Zenex hub 0.0.0 Featutes and V1
 
 Full script on Sewers
 
+Anticheat bypass (If possible) :)
+
 Door esp
 
 Monster esp
@@ -44,6 +46,7 @@ Idk never played before
 (Finish Every feature before V1)
 
 -----------------------
+
 (Auth for V1)
 
 Hwid
