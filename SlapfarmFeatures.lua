@@ -139,7 +139,7 @@ FarmOrbs = true
 FarmToolbox = true
 SlappleFarm = true
 Replicafarm = true
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmFeatures.lua'))()
     ]])
 end
 end
