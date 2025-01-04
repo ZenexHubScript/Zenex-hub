@@ -97,7 +97,7 @@ Juju,Nevin, and windy
 
 🟢 Boxer Farm (Works but not Added)
 
-🔴 (Risky haul) (Will most likely not be added) (I never played so idk)
+🔴 (Risky haul) (Will most likely not be added) (I never played so I don't know)
 
 🔴 (Arcade Empire script) (Will most likely not be added)
 
@@ -149,9 +149,13 @@ V1
 
 🔴 Rewrite V0.99 then add everything to the custom GUI
 
-🔴 Closed source
+🟢 Closed source
 
 🔴 Closet Mode
+
+🔴 Loading Screen
+
+
 
 🔴 Auto role (Give user tester role or key if bought)
 
@@ -160,6 +164,10 @@ V1
 🔴 No errors and everything fully working
 
 🔴 Custom GUI (Will most likely not be added)
+
+🔴 Better Script Hub (Scriptblox Api)
+
+🔴 Grab Userid or Hwid for license
 
 🟡 Fully custom scripts (Will most likely not be added fully) 
 
@@ -173,7 +181,7 @@ V1
 
 🟡 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff) (Works but some parts of it are not done)
 
-🔴 Low Support Mode (Makes executors that have low unc use a script that has fewer features)
+🔴 Low Support Mode (Makes executors that have low unc use a script that has fewer features but supports their exploit)
 
 🔴 Api And Doc Tells you how to use and setup + Put Zenex hub Scripts into your scripts
 
@@ -183,12 +191,18 @@ V1
 
 🔴 Swift Support
 
+🔴 Themes
+
+🔴 Prebuilt settings
+
+🔴 Home Screen ( User pfp + Hello *User* Key time If Added)
+
 🟢 (Finish this as the Last update)
 
 -----------------------
 
 # What does This mean
-🟢 - It works and has been added or not
+🟢 - It does work and has been added or not or this idea is gonna happen
 
 🟡 - Some parts of it have been done or works
 
