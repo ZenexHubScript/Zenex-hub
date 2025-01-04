@@ -43,6 +43,22 @@ Zenex hub 0.0.0 Features and V1/Zenex hub To-do list
 
 Idk never played before
 
+🟡 Full script on slap battles
+
+🟡 Slap farm
+
+🟢 Boxer Farm
+
+(Stuff that might be added/Stuff not need that much)
+
+🟡 Add Kick if Zenex hub is updating (Checks for updates)
+
+🟡 Add Error codes for stuff that won't load
+
+🟡 Add Gamefetcher It grabs the games that you are in and puts the script for that game if it is supported
+
+🟡 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff)
+
 🟢 (Finish Every feature before V1)
 
 -----------------------
