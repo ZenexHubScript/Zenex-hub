@@ -25,7 +25,7 @@ Juju,Nevin, and windy
 
 🔴 Show hitbox
 
-🔴 Sunc
+🟢 Sunc
 
 🔴 Antiafk
 
@@ -97,6 +97,14 @@ Juju,Nevin, and windy
 
 🟢 Boxer Farm (Works but not Added)
 
+🔴 Sbeve all
+
+🔴 Antideath
+
+🔴 Instant bob
+
+🔴 Free titan
+
 🔴 (Risky haul) (Will most likely not be added) (I never played so I don't know)
 
 🔴 (Arcade Empire script) (Will most likely not be added)
@@ -104,6 +112,8 @@ Juju,Nevin, and windy
 🔴 Auto collect (Will most likely not be added)
 
 🔴 Auto buy (Will most likely not be added)
+
+🔴 AutoWorkers
 
 🔴 Full Fisch script
 
@@ -155,7 +165,7 @@ V1
 
 🔴 Loading Screen
 
-
+🔴 Pause license time if not being used
 
 🔴 Auto role (Give user tester role or key if bought)
 
