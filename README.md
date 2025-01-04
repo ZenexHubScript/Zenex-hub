@@ -11,13 +11,45 @@ Thank you to all of the contributors and testers! You all are pretty epic :D
 
 Juju,Nevin, and windy
 
-# Zenex hub 0.0.0 Features and V1/Zenex hub To-do list
+# Zenex hub 0.0.0-V1 Features and V1/Zenex hub To-do list
+
+0.0.0-V1
+
+🔴 Sunc
+
+🔴 Antiafk
+
+🔴 Esp
+
+🔴 Teleport to player
+
+🔴 View player
+
+🔴 Freecam
+
+🔴 Set jump power
+
+🔴 Set speed
+
+🔴 Inf jump
+
+🔴 AntiRecord
+
+🔴 Solara Support
+
+🔴 Swift Support
+
+🔴 Working Chatbypasser
+
+🔴 Bang User
+
+🔴 Autoreport
 
 🟡 Full script on Sewers
 
-🟡 Modmenu for Sewers
+🟡 Modmenu for Sewers (Custom Gui just for Sewers) :D
 
-🔴 Anticheat bypass (If possible) :) (Will most likely not be added)
+🔴 Anticheat bypass (If possible) (Will most likely not be added)
 
 🟡 Door esp (Works but some parts of it not done)
 
@@ -33,17 +65,17 @@ Juju,Nevin, and windy
 
 🔴 Noclip (Will most likely not be added)
 
+🔴 Kill others
+
+🔴 Kick if admins in the server
+
+🔴 Autoplay (Autowin WIthout AC bypass)
+
+🔴 Anti Death barriers
+
+🔴 Free/fake Swag and the another gamepass (I don't think this is even possible)
+
 🟡 Jump boost that bypasses the anti-cheat + Enable jumping (Will most likely not be added fully)
-
-🔴 (Arcade Empire script) (Will most likely not be added)
-
-🔴 Auto collect (Will most likely not be added)
-
-🔴 Auto buy (Will most likely not be added)
-
-🔴 (Risky haul) (Will most likely not be added)
-
-Idk never played before
 
 🟡 Full script on slap battles
 
@@ -53,19 +85,13 @@ Idk never played before
 
 🟢 Boxer Farm (Works but not Added)
 
-(Stuff that might be added/Stuff not need that much)
-
-🟡 Add Kick if Zenex hub is updating (Checks for updates) (Works but some parts of it are not done)
-
-🟡 Add Error codes for stuff that won't load (Works but some parts of it are not done)
-
-🟡 Add Gamefetcher It grabs the games that you are in and puts the script for that game if it is supported (Works but some parts of it are not done)
-
-🟡 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff) (Works but some parts of it are not done)
+🔴 No issues with Rayfield
 
 🟢 (Finish Every feature before V1)
 
 -----------------------
+
+V1
 
 (Auth for V1)
 
@@ -75,13 +101,39 @@ Idk never played before
 
 (Features for V1)
 
+🔴 Script hub Version no updates
+
+🔴 No errors and everything fully working
+
 🔴 Custom GUI (Will most likely not be added)
 
 🟡 Fully custom scripts (Will most likely not be added fully) 
 
 🔴 Key system or Paid and free plan (Will most likely not be added)
 
+🟡 Add Kick if Zenex hub is updating (Checks for updates) (Works but some parts of it are not done)
+
+🟡 Add Error codes for stuff that won't load (Works but some parts of it are not done)
+
+🟡 Add Gamefetcher It grabs the games that you are in and puts the script for that game if it is supported (Works but some parts of it are not done)
+
+🟡 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff) (Works but some parts of it are not done)
+
+🔴 Low Support Mode (Makes executors that have low unc use a script that has fewer features)
+
+🔴 Api And Doc Tells you how to use and setup + Put Zenex hub Scripts into your scripts
+
 🟢 (Finish this as the Last update)
+
+(Games for V1)
+
+🔴 (Risky haul) (Will most likely not be added) (I never played so idk)
+
+🔴 (Arcade Empire script) (Will most likely not be added)
+
+🔴 Auto collect (Will most likely not be added)
+
+🔴 Auto buy (Will most likely not be added)
 
 -----------------------
 
@@ -91,12 +143,6 @@ Idk never played before
 🟡 - Some parts of it have been done or works
 
 🔴 - This has not started development and will most likely not be finished
-
-(Works but not Added) - It means I finished this but it has not been added to Zenex hub
-
-(Works but some parts of it are not done) - It works but it is not fully done
-
-(Will most likely not be added) - This means I can not add this because I am gonna need a computer that has an executor on it to add it Someone might do it but I don't know
 
 -----------------------
 
@@ -112,5 +158,3 @@ The code might not work cause I can't even test it and can't do anything too so 
 I will add everything that I planned if I can and will no longer be updating when I added everything that I can it If you would like updates. 
 
 I will accept pull requests so make some if you want it added also the src will be fully closed once I finish the entire thing.
-
-
