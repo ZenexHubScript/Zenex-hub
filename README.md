@@ -79,6 +79,8 @@ Idk never played before
 
 🟢 (Finish this as the Last update)
 
+-----------------------
+# What Happened and What is going to happen?
 My laptop kinda broke so I can't add this stuff to the src but I can update the src now using stuff I added to the Zenex hub source :D
 
 I hope Finn or Juju can continue the SRC without me but they prob can so let them continue. 
