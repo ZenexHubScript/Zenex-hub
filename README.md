@@ -15,6 +15,8 @@ Juju,Nevin, and windy
 
 0.0.0-V1
 
+🟢 Open source
+
 🔴 Sunc
 
 🔴 Antiafk
@@ -73,7 +75,7 @@ Juju,Nevin, and windy
 
 🔴 Anti Death barriers
 
-🔴 Free/fake Swag and the another gamepass (I don't think this is even possible)
+🔴 Free/fake Swag and another game pass (I don't think this is even possible)
 
 🟡 Jump boost that bypasses the anti-cheat + Enable jumping (Will most likely not be added fully)
 
@@ -101,7 +103,11 @@ V1
 
 (Features for V1)
 
-🔴 Script hub Version no updates
+🔴 Closed source
+
+🔴 Closet Mode
+
+🔴 Script hub Version has updates
 
 🔴 No errors and everything fully working
 
@@ -138,11 +144,11 @@ V1
 -----------------------
 
 # What does This mean
-🟢 - Is done or will most likely be added/Happen
+🟢 - It works and has been added or not
 
 🟡 - Some parts of it have been done or works
 
-🔴 - This has not started development and will most likely not be finished
+🔴 - This has not started development or Added script the script and will most likely not be finished
 
 -----------------------
 
