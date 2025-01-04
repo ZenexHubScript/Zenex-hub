@@ -43,7 +43,7 @@ Juju,Nevin, and windy
 
 🔴 Inf jump
 
-🔴 AntiRecord
+🟢 AntiRecord
 
 🔴 Working Chatbypasser
 
