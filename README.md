@@ -11,6 +11,25 @@ Thank you to all of the contributors and testers! You all are pretty epic :D
 
 Juju,Nevin, and windy
 
+# Finished scripts that been added
+
+V0.00
+
+
+
+
+
+
+
+------------------------------------
+
+V1
+
+
+
+
+
+
 # Zenex hub 0.0.0-V1 Features and V1/Zenex hub To-do list
 
 0.0.0-V1
