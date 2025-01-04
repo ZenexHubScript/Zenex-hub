@@ -19,6 +19,10 @@ Juju,Nevin, and windy
 
 🔴 Antifling
 
+🔴 Autoset Speed
+
+🔴 Autoset Jump power
+
 🔴 Show hitbox
 
 🔴 Sunc
@@ -101,6 +105,32 @@ Juju,Nevin, and windy
 
 🔴 Auto buy (Will most likely not be added)
 
+🔴 Full Fisch script
+
+🔴 Auto Fisch
+
+🔴 Auto Get Fisch inbox
+
+🔴 Auto sell Fisch
+
+🔴 Full BABFT script
+
+🔴 Farm gold
+
+🔴 Auto get items
+
+🔴 Invisible
+
+🔴 Full Doors script
+
+🔴 Monster esp
+
+🔴 Door esp
+
+🔴 Autoplay
+
+🔴 Counter rush and ambush
+
 🔴 No issues with Rayfield
 
 🟢 (Finish Every feature before V1)
@@ -116,6 +146,8 @@ V1
 🟢 Userid (Works but not Added)
 
 (Features for V1)
+
+🔴 Rewrite V0.99 then add everything to the custom GUI
 
 🔴 Closed source
 
