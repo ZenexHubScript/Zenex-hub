@@ -17,7 +17,9 @@ Juju,Nevin, and windy
 
 🟢 Open source
 
-🔴 Ban User from Zenex hub
+🔴 Antifling
+
+🔴 Show hitbox
 
 🔴 Sunc
 
@@ -39,13 +41,11 @@ Juju,Nevin, and windy
 
 🔴 AntiRecord
 
-🔴 Solara Support
-
-🔴 Swift Support
-
 🔴 Working Chatbypasser
 
 🔴 Bang User
+
+🔴 Troll User (Auto Fling user + Check for collisions )
 
 🔴 Autoreport
 
@@ -93,6 +93,14 @@ Juju,Nevin, and windy
 
 🟢 Boxer Farm (Works but not Added)
 
+🔴 (Risky haul) (Will most likely not be added) (I never played so idk)
+
+🔴 (Arcade Empire script) (Will most likely not be added)
+
+🔴 Auto collect (Will most likely not be added)
+
+🔴 Auto buy (Will most likely not be added)
+
 🔴 No issues with Rayfield
 
 🟢 (Finish Every feature before V1)
@@ -137,17 +145,13 @@ V1
 
 🔴 Api And Doc Tells you how to use and setup + Put Zenex hub Scripts into your scripts
 
+🔴 Ban User from Zenex hub
+
+🔴 Solara Support
+
+🔴 Swift Support
+
 🟢 (Finish this as the Last update)
-
-(Games for V1)
-
-🔴 (Risky haul) (Will most likely not be added) (I never played so idk)
-
-🔴 (Arcade Empire script) (Will most likely not be added)
-
-🔴 Auto collect (Will most likely not be added)
-
-🔴 Auto buy (Will most likely not be added)
 
 -----------------------
 
