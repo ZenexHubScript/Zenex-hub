@@ -84,13 +84,20 @@ Idk never played before
 🟢 (Finish this as the Last update)
 
 -----------------------
+
 # What does This mean
 🟢 - Is done or will most likely be added/Happen
+
 🟡 - Some parts of it have been done or works
+
 🔴 - This has not started development and will most likely not be finished
+
 (Works but not Added) - It means I finished this but it has not been added to Zenex hub
+
 (Works but some parts of it are not done) - It works but it is not fully done
+
 (Will most likely not be added) - This means I can not add this because I am gonna need a computer that has an executor on it to add it Someone might do it but I don't know
+
 -----------------------
 
 # What Happened and What is going to happen?
