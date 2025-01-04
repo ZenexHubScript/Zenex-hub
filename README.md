@@ -17,6 +17,8 @@ Juju,Nevin, and windy
 
 🟢 Open source
 
+🔴 Ban User from Zenex hub
+
 🔴 Sunc
 
 🔴 Antiafk
@@ -83,7 +85,11 @@ Juju,Nevin, and windy
 
 🔴 Mod Menu for Slap battles like Slap Aura and god mode
 
-🟡 Slap farm (Works but some parts of it are not done)
+🔴 Badge hub
+
+🔴 Slap farm Gui
+
+🟡 Better Slap farm (Works but some parts of it are not done)
 
 🟢 Boxer Farm (Works but not Added)
 
@@ -106,6 +112,8 @@ V1
 🔴 Closed source
 
 🔴 Closet Mode
+
+🔴 Auto role (Give user tester role or key if bought)
 
 🔴 Script hub Version has updates
 
