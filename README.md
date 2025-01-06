@@ -31,7 +31,9 @@ Some scripts are fully custom made
 
 # Finished scripts that are gonna be added
 🟢 Sunc
+
 🟢 AntiRecord
+
 # Zenex hub 0Features and Zenex hub To-do list
 
 0.0.0-V1
