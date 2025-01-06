@@ -11,28 +11,28 @@ Thank you to all of the contributors and testers! You all are pretty epic :D
 
 Juju,Nevin, and windy
 
-# Finished scripts that been added
+# How to reach out to us
 
-V0.00
+Join our discord server: https://discord.gg/5W6MyymMya
+
+# why us
+
+We offer a lot of scripts 
+
+we accept new features that other users made
+
+we try to make any scipts
+
+This project source is open source
+
+Everything is free
+
+Some scripts are fully custom made
+
+# Finished scripts that are gonna be added
 🟢 Sunc
 🟢 AntiRecord
-
-
-
-
-
-
-
-------------------------------------
-
-V1
-
-
-
-
-
-
-# Zenex hub 0.0.0-V1 Features and V1/Zenex hub To-do list
+# Zenex hub 0Features and Zenex hub To-do list
 
 0.0.0-V1
 
@@ -162,17 +162,9 @@ V1
 
 🟢 (Finish Every feature before V1)
 
------------------------
-
-V1
-
-(Auth for V1)
-
 🔴 Hwid
 
 🟢 Userid (Works but not Added)
-
-(Features for V1)
 
 🔴 Rewrite V0.99 then add everything to the custom GUI
 
