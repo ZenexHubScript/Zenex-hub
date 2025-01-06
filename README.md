@@ -14,6 +14,8 @@ Juju,Nevin, and windy
 # Finished scripts that been added
 
 V0.00
+🟢 Sunc
+🟢 AntiRecord
 
 
 
@@ -44,8 +46,6 @@ V1
 
 🔴 Show hitbox
 
-🟢 Sunc
-
 🔴 Antiafk
 
 🔴 Esp
@@ -61,8 +61,6 @@ V1
 🔴 Set speed
 
 🔴 Inf jump
-
-🟢 AntiRecord
 
 🔴 Working Chatbypasser
 
