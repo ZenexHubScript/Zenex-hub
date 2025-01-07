@@ -51,7 +51,7 @@ Some scripts are fully custom made
 
 # Finished scripts that are gonna be added
 
-# Zenex hub 0Features and Zenex hub To-do list
+# Zenex hub V0-V1 Features and Zenex hub To-do list
 
 0.0.0-V1
 
