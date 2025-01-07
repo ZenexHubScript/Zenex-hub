@@ -15,7 +15,6 @@ Juju,Nevin, and windy
 
 -Have added folders for each game on Zenex hub that was here
 
-
 # How to reach out to us
 
 Join our discord server: https://discord.gg/5W6MyymMya
@@ -34,10 +33,23 @@ Everything is free
 
 Some scripts are fully custom made
 
-# Finished scripts that are gonna be added
-🟢 Sunc
+# Update logs
 
-🟢 AntiRecord
+0.0.0
+
+- A lot of scripts will no longer work if they used a loadstring from Zenex hub
+
++ Added a Warning 
+
++ Added Sunc
+
++ Added Antirecord
+
+0.0.1
+
+- In dev
+
+# Finished scripts that are gonna be added
 
 # Zenex hub 0Features and Zenex hub To-do list
 
