@@ -11,6 +11,11 @@ Thank you to all of the contributors and testers! You all are pretty epic :D
 
 Juju,Nevin, and windy
 
+# Recent updates
+
+-Have added folders for each game on Zenex hub that was here
+
+
 # How to reach out to us
 
 Join our discord server: https://discord.gg/5W6MyymMya
