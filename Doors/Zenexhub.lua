@@ -34,7 +34,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 local DoorsTab = Window:CreateTab("Doors", 4483362458) -- Title, Image
-local Section = DoorsTab:CreateSection("Doors")
+local Section = DoorsTab:CreateSection("Scripts")
 local Button = DoorsTab:CreateButton({
    Name = "Mspaint V3",
    Callback = function()
