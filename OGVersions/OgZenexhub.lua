@@ -1,3 +1,4 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Update message",Text = "Join our discord for latest version of Zenex hub Discord.gg/5W6MyymMya!" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150"})
 local gui = Instance.new("ScreenGui", game.CoreGui)
 gui.Name = "Script"
 
