@@ -33,8 +33,8 @@ local Window = Rayfield:CreateWindow({
       Key = {""} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
-local ExampleTab = Window:CreateTab("Examp;e", 4483362458) -- Title, Image
-local Section = UniversalTab:CreateSection("Example")
+local ExampleTab = Window:CreateTab("Example", 4483362458) -- Title, Image
+local Section = ExampleTab:CreateSection("Example")
 local Button = ExampleTab:CreateButton({
    Name = "Example",
    Callback = function()
