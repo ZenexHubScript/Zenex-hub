@@ -48,7 +48,7 @@ local Button = UniversalTab:CreateButton({
    end,
 })
 local Button = UniversalTab:CreateButton({
-   Name = "Unc test (Does not check for spoofed unc)",
+   Name = "Unc test (Does not check for spoofed unc) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Unctest.lua'),true))()
    end,
@@ -56,29 +56,30 @@ local Button = UniversalTab:CreateButton({
 local Button = UniversalTab:CreateButton({
    Name = "Sunc (Can cause you to crash)",
    Callback = function()
-   loadstring(game:HttpGet("https://gitlab.com/sens3/nebunu/-/raw/main/HummingBird8's_sUNC_yes_i_moved_to_gitlab_because_my_github_acc_got_brickedd/sUNCm0m3n7.lua"))()   end,
+   loadstring(game:HttpGet("https://gitlab.com/sens3/nebunu/-/raw/main/HummingBird8's_sUNC_yes_i_moved_to_gitlab_because_my_github_acc_got_brickedd/sUNCm0m3n7.lua"))()   
+      end,
 })
 local Button = UniversalTab:CreateButton({
-   Name = "Enable jumping",
+   Name = "Enable jumping (No longer works)",
    Callback = function()
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/EJ.lua'),true))()
    end,
 })
 local Button = UniversalTab:CreateButton({
-   Name = "Sine Waves",
+   Name = "Sine Waves (No longer works)",
    Callback = function()
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Sine%20wave.lua'),true))()
    end,
 })
 local Button = UniversalTab:CreateButton({
-   Name = "Antirecord",
+   Name = "Antirecord (No longer works)",
    Callback = function()
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Antirecord.lua'),true))()
    end,
 })
 local TrollingTab = Window:CreateTab("Trolling", 4483362458) -- Title, Image
 local Button = TrollingTab:CreateButton({
-   Name = "Chatbypass",
+   Name = "Chatbypass (Not Added yet)",
    Callback = function()
    -- The function that takes place when the button is pressed
    end,
@@ -190,7 +191,7 @@ local Button = HorrorTab:CreateButton({
 })
 local Section = HorrorTab:CreateSection("Sewers")
 local Button = HorrorTab:CreateButton({
-   Name = "Sewers script",
+   Name = "Sewers script (No longer working)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Infstamina.lua",true))()
    end,
@@ -218,49 +219,49 @@ local Button = SimulationTab:CreateButton({
 })
 local Section = SimulationTab:CreateSection("Slap battles")
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica",
+   Name = "Slap farm Replica (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Slapfarm.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica+Blink Obfuscated (Use for more slaps)",
+   Name = "Slap farm Replica+Blink Obfuscated (Use for more slaps) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmObfuscated.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica+Blink Open source (Use this if obfuscated don't work)",
+   Name = "Slap farm Replica+Blink Open source (Use this if obfuscated don't work) (No longer works",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmOpensource1.5.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica+Blink+baller+slapples Obfuscated (You don't get that much slaps from baller but can get you a lot of extra slaps from slapple)",
+   Name = "Slap farm Replica+Blink+baller+slapples Obfuscated (You don't get that much slaps from baller but can get you a lot of extra slaps from slapple) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmObfuscatedbutbetter.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica+Blink+baller+slapples Open source (Use this if executor can't use the obfuscated version)",
+   Name = "Slap farm Replica+Blink+baller+slapples Open source (Use this if executor can't use the obfuscated version) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmOpensource.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Replica+Blink+baller+slapples Open source (Use this if executor not even the open source works)",
+   Name = "Slap farm Replica+Blink+baller+slapples Open source (Use this if executor not even the open source works) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmOpensource2.0.lua",true))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Obfuscated Moonsec (I am pretty sure it just replica+Blink)",
+   Name = "Slap farm Obfuscated Moonsec (I am pretty sure it just replica+Blink) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/SlapfarmObfuscatedbutbetter.lua",true))()
@@ -281,7 +282,7 @@ local Button = SimulationTab:CreateButton({
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Instant Hybrid",
+   Name = "Instant Hybrid (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Instant%20hybrid.lua'))()
@@ -295,28 +296,28 @@ local Button = SimulationTab:CreateButton({
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap Battles script V3",
+   Name = "Slap Battles script V3 (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Playgiang/Slap_Battles/refs/heads/main/main.lua'))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap Battles script V2",
+   Name = "Slap Battles script V2 (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/PGSSB.lua'))()
    end,
 })
 local Button = SimulationTab:CreateButton({
-   Name = "Slap battles script V1.5",
+   Name = "Slap battles script V1.5 (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/PGSSBV1-5.lua'))()
    end,
 })      
 local Button = SimulationTab:CreateButton({
-   Name = "Slap battles script V1",
+   Name = "Slap battles script V1 (No longer works)",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/BypassAntiCheat/main/main.lua'))()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/PGSSBV1.lua'))()
@@ -332,13 +333,13 @@ local Button = SimulationTab:CreateButton({
 local OtherTab = Window:CreateTab("Other", 4483362458) -- Title, Image
 local Section = OtherTab:CreateSection("Stuff that does not have a tab")
 local Button = OtherTab:CreateButton({
-   Name = "+Unc (Adds more unc I don't know if this even works I think it decreases unc",
+   Name = "+Unc (Adds more unc I don't know if this even works I think it decreases unc (No longer works)",
    Callback = function()
    loadstring("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/%2BUnc.lua")()
    end,
 })
 local Button = OtherTab:CreateButton({
-   Name = "Spinning donut",
+   Name = "Spinning donut (No longer works)",
    Callback = function()
    loadstring("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Spinning%20donut.lua")()
    end,
@@ -350,7 +351,7 @@ local Button = OtherTab:CreateButton({
    end,
 })
 local Button = OtherTab:CreateButton({
-   Name = "Random Obfuscated script (Forgot what this was lmao)",
+   Name = "Random Obfuscated script (Forgot what this was lmao) (No longer works)",
    Callback = function()
    loadstring("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Randomobfuscatedscript.lua")()
    end,
@@ -364,25 +365,25 @@ local Button = VersionsTab:CreateButton({
    end,
 })
 local Button = VersionsTab:CreateButton({
-   Name = "Matrix hub",
+   Name = "Matrix hub (No longer works",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Matrixhub.lua"))()
    end,
 })
 local Button = VersionsTab:CreateButton({
-   Name = "Og Zenex hub (just a gui Use latest for the custom scripts)",
+   Name = "Og Zenex hub (just a gui Use latest for the custom scripts) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/OgZenexhub.lua"))()
    end,
 })
 local Button = VersionsTab:CreateButton({
-   Name = "Zenex hub (By finn before rewrite)",
+   Name = "Zenex hub (By finn before rewrite) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/ZenexhubV1.lua"))()
    end,
 })
 local Button = VersionsTab:CreateButton({
-   Name = "Zenex hub V2 (some stuff don't work)",
+   Name = "Zenex hub V2 (some stuff don't work) (No longer works)",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/ZenexhubV2.lua"))()
    end,
