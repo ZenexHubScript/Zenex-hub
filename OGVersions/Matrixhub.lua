@@ -1,4 +1,5 @@
-ocal Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Update message",Text = "Join our discord for latest version of Zenex hub Discord.gg/5W6MyymMya!" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150"})
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Matrix Hub",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
