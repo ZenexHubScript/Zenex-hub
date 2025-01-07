@@ -34,7 +34,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 local ArsenalTab = Window:CreateTab("Arsenal", 4483362458) -- Title, Image
-local Section = ArsenalTab:CreateSection("Arsenal")
+local Section = ArsenalTab:CreateSection("Scripts")
 local Button = ArsenalTab:CreateButton({
    Name = "Solaris",
    Callback = function()
