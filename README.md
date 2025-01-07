@@ -205,7 +205,7 @@ Some scripts are fully custom made
 
 🟡 Add Gamefetcher It grabs the games that you are in and puts the script for that game if it is supported (Works but some parts of it are not done)
 
-🟡 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff) (Works but some parts of it are not done)
+🟢 Exploit checker (Executors that are on Zenex hub Blacklist/Executors known to be rats and stuff) 
 
 🔴 Low Support Mode (Makes executors that have low unc use a script that has fewer features but supports their exploit)
 
