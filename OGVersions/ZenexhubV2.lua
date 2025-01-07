@@ -137,7 +137,7 @@ local Button = SimulationTab:CreateButton({
 })
 local Section = SimulationTab:CreateSection("Slap battles")
 local Button = SimulationTab:CreateButton({
-   Name = "Slap farm Blink+Replica+baller",
+   Name = "Slap farm Blink+Replica+baller (No longer works use latest for this to work",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Scaroontop/Zenex-hub/refs/heads/main/Sb%20farm",true))()
    end,
