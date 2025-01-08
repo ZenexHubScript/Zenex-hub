@@ -260,3 +260,5 @@ The code might not work cause I can't even test it and can't do anything too so 
 I will add everything that I planned if I can and will no longer be updating when I added everything that I can it If you would like updates. 
 
 I will accept pull requests so make some if you want it added also the src will be fully closed once I finish the entire thing.
+
+BRupaze6o+a7HL2utH#2	
