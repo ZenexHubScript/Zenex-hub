@@ -1,4 +1,7 @@
 # Zenex hub
+
+Disclaimer this exploit uses Ai and other peoples/contributors code to make this I am still new to lua 
+
 This is a script hub with some custom scripts. Made by Finn and sap
 
 Please use these at your own risk or if you have permission, I (Sap and Finn) do not condone the use of any exploits for Ruining other people's fun or ruining the game!
