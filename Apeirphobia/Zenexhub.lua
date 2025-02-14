@@ -1,10 +1,9 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Credits",Text = "Warning:We/Zenex hub is not responsible for you getting banned" ,Duration = 10, Icon = "rbxthumb://type=Asset&id=9649923610&w=150&h=150"})
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Zenex hub | Apeirphobia",
    Icon = 120800816503706, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Zenex Hub",
-   LoadingSubtitle = "by Zenex team",
+   LoadingSubtitle = "by The Zenex team",
    Theme = "Amethyst", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    DisableRayfieldPrompts = false,
@@ -18,7 +17,7 @@ local Window = Rayfield:CreateWindow({
 
    Discord = {
       Enabled = true, -- Prompt the user to join your Discord server if their executor supports it
-      Invite = "5W6MyymMya", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
+      Invite = "5W6MyymMya", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
 
@@ -30,27 +29,27 @@ local Window = Rayfield:CreateWindow({
       FileName = "ZenexhubkeysystemV1", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
       SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = {""} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"Hello"} -- List of keys that the system will accept, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
-local ApeirphobiaTab = Window:CreateTab("Apeirphobia", 4483362458) -- Title, Image
-local Section = ApeirphobiaTab:CreateSection("Scripts")
-local Button = ApeirphobiaTab:CreateButton({
+local apeirphobiaTab = Window:CreateTab("Apeirphobia", 4483362458) -- Title, Image
+local Section = apeirphobiaTab:CreateSection("Section Example")
+local Button = apeirphobiaTab:CreateButton({
    Name = "Apeirphobia Gui",
    Callback = function()
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/APEIROPHOBIA/1.0.%3Blua'))()
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/APEIROPHOBIA/1.0.%3Blua'))()
    end,
 })
-local Button = ApeirphobiaTab:CreateButton({
+local Button = apeirphobiaTab:CreateButton({
    Name = "Apeirphobia Gui 2",
    Callback = function()
-   loadstring(game:HttpGet(('https://raw.githubusercontent.com/XCD7/x/main/x'),true))()
+     loadstring(game:HttpGet(('https://raw.githubusercontent.com/XCD7/x/main/x'),true))()
    end,
 })
-local Button = ApeirphobiaTab:CreateButton({
-   Name = "Speed hub X",
+local Button = apeirphobiaTab:CreateButton({
+   Name = "Speed hub X"",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
    end,
 })
 Rayfield:LoadConfiguration()
